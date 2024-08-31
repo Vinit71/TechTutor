@@ -1,8 +1,6 @@
-# React + Vite
+# TechTutor
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+**TechTutor** is a platform built with React that combines resources for learning DBMS, PHP, and Java into one unified interface, streamlining access to essential educational content.
 
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🔗 Links
+[Click here](https://techtutor71.netlify.app/)
